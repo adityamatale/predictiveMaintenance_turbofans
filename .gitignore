@@ -1,0 +1,14 @@
+# PDF files
+*.pdf
+
+# Python cache
+__pycache__/
+**/__pycache__/
+
+# IDE
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
